@@ -1,5 +1,3 @@
-
-
 export const message = {
     idNotFoundMessage: "Please provide user id'",
     userNotFoundMessage: "User not found",
@@ -21,4 +19,8 @@ export const message = {
     userProfileFoundMessage: "User profile found",
     userProfileUpdatedMessage: "User profile updated successfully",
     userNotVerifiedMessage: "User not verified. Please verify your email",
-}
+    imageMissingMessage: "Image Not Found",
+    postCreatedMessage: "Post Created Successfully"
+  
+  };
+  
